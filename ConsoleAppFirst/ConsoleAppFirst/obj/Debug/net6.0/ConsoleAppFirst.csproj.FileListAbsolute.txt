@@ -1,0 +1,15 @@
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\bin\Debug\net6.0\ConsoleAppFirst.exe
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\bin\Debug\net6.0\ConsoleAppFirst.deps.json
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\bin\Debug\net6.0\ConsoleAppFirst.runtimeconfig.json
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\bin\Debug\net6.0\ConsoleAppFirst.dll
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\bin\Debug\net6.0\ref\ConsoleAppFirst.dll
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\bin\Debug\net6.0\ConsoleAppFirst.pdb
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.csproj.AssemblyReference.cache
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.AssemblyInfoInputs.cache
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.AssemblyInfo.cs
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.csproj.CoreCompileInputs.cache
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.dll
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ref\ConsoleAppFirst.dll
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.pdb
+C:\Users\choco\source\repos\ConsoleAppFirst\ConsoleAppFirst\obj\Debug\net6.0\ConsoleAppFirst.genruntimeconfig.cache
